@@ -34,3 +34,4 @@ GIT Commit - Local repository
 Git Push - Remote
 
 Git Fetch(pull and clone command )/Clone - Local copy from remote rep.
+crud operations
