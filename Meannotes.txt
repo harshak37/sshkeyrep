@@ -1,0 +1,36 @@
+Git 
+
+Bare Repository
+No commits can be made
+All have .git extension
+central /remote repository
+
+Non bare repository.
+1) Default 
+   .git folder inside repository- Back bone of the repository.
+   This used for local repository/present on local repository. 
+
+Tag - is a command / stable version
+Tree - Shows the directory structure
+Status - All status like status/unstaging shown
+Rebase - move data from one folder to another, combining multiple commits 
+Add - Adds the file to staging
+Merge - Merge(Shows the history hierarcy) and rebase(No history , liner representation) generally the same .
+Master - Name of the git branch, default branch of git.
+head - Representation of the last commit in the current checked out branch.
+Hook - predefined Auto scripts after an event in the GIT.  
+Index - Staging area between working directory and repository.
+Commit - Command which is used to change the changes to your local repository.
+chckout - switching between branchs .
+Branch - Reference to a commit , its not a directory
+push - Share the data to remote repository.Act of transfer 
+pull - Receive the data from git.
+
+work flo
+
+GIT Init
+GIT Add- Staging area or index
+GIT Commit - Local repository
+Git Push - Remote
+
+Git Fetch(pull and clone command )/Clone - Local copy from remote rep.
