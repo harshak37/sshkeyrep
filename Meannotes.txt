@@ -36,3 +36,4 @@ Git Push - Remote
 Git Fetch(pull and clone command )/Clone - Local copy from remote rep.
 crud operations
 new changes - practicle class
+new changes remote
